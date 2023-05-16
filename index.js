@@ -86,7 +86,7 @@ prevBtnFifth.addEventListener("click", function() {
 const mediaQuery = window.matchMedia("(max-width: 480px)")
 if (mediaQuery.matches) {
     firstNextBtn.addEventListener("click", function() {
-        slidePage.style.marginTop = "-350%"
+        slidePage.style.marginTop = "-310%"
     });
 
     nextBtnSec.addEventListener("click", function(){
