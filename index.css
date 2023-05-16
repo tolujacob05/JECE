@@ -418,6 +418,7 @@ button.next:hover {
 @media screen and (max-width:1200px) {
     .container {
         padding: 20px;
+        height: 70vh;
     }
 
     header {
@@ -525,7 +526,7 @@ button.next:hover {
 
 }
 
-@media screen and (max-width:500px) {
+@media screen and (max-width: 480px) {
     body {
         padding: 20px;
     }
@@ -538,6 +539,7 @@ button.next:hover {
 
     .container {
         width: 96vw;
+        height: 80vh;
         padding: 1px;
         padding: 0px 5px 0px 5px;
         border-radius: 20px;
