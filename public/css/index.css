@@ -16,6 +16,17 @@ nav {
     margin-bottom: 20px;
 }
 
+.log {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.log > h1 {
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 nav > a:nth-of-type(1) {
     font-size: 20px;
     font-weight: 500;
